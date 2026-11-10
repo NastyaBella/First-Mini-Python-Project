@@ -1,4 +1,4 @@
-# First-Mini-Python-Project
+# First-Mini-Python-Projects
 I believe that it’s never too late to start learning a new language (2025 year)
 
 1) random numbers guess game
